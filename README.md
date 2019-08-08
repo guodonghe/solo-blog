@@ -10,7 +10,7 @@ guodonghe 的个人博客
 
 ### 最新
 
-* [世界，你好！](http://www.sosnb.com/hello-solo)
+* [世界，你好！](https://www.sosnb.com/hello-solo)
 
 
 
